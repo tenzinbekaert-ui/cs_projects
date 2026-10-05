@@ -1,0 +1,10 @@
+C:\Users\TenzinBekaert\source\repos\egg_catch\egg_catch\obj\Debug\egg_catch.csproj.AssemblyReference.cache
+C:\Users\TenzinBekaert\source\repos\egg_catch\egg_catch\obj\Debug\egg_catch.csproj.SuggestedBindingRedirects.cache
+C:\Users\TenzinBekaert\source\repos\egg_catch\egg_catch\obj\Debug\egg_catch.Properties.Resources.resources
+C:\Users\TenzinBekaert\source\repos\egg_catch\egg_catch\obj\Debug\egg_catch.csproj.GenerateResource.cache
+C:\Users\TenzinBekaert\source\repos\egg_catch\egg_catch\obj\Debug\egg_catch.csproj.CoreCompileInputs.cache
+C:\Users\TenzinBekaert\source\repos\egg_catch\egg_catch\bin\Debug\egg_catch.exe.config
+C:\Users\TenzinBekaert\source\repos\egg_catch\egg_catch\bin\Debug\egg_catch.exe
+C:\Users\TenzinBekaert\source\repos\egg_catch\egg_catch\bin\Debug\egg_catch.pdb
+C:\Users\TenzinBekaert\source\repos\egg_catch\egg_catch\obj\Debug\egg_catch.exe
+C:\Users\TenzinBekaert\source\repos\egg_catch\egg_catch\obj\Debug\egg_catch.pdb

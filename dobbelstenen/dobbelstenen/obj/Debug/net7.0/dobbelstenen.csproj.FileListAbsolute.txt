@@ -1,0 +1,15 @@
+C:\Users\TenzinBekaert\source\repos\dobbelstenen\dobbelstenen\bin\Debug\net7.0\dobbelstenen.exe
+C:\Users\TenzinBekaert\source\repos\dobbelstenen\dobbelstenen\bin\Debug\net7.0\dobbelstenen.deps.json
+C:\Users\TenzinBekaert\source\repos\dobbelstenen\dobbelstenen\bin\Debug\net7.0\dobbelstenen.runtimeconfig.json
+C:\Users\TenzinBekaert\source\repos\dobbelstenen\dobbelstenen\bin\Debug\net7.0\dobbelstenen.dll
+C:\Users\TenzinBekaert\source\repos\dobbelstenen\dobbelstenen\bin\Debug\net7.0\dobbelstenen.pdb
+C:\Users\TenzinBekaert\source\repos\dobbelstenen\dobbelstenen\obj\Debug\net7.0\dobbelstenen.csproj.AssemblyReference.cache
+C:\Users\TenzinBekaert\source\repos\dobbelstenen\dobbelstenen\obj\Debug\net7.0\dobbelstenen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TenzinBekaert\source\repos\dobbelstenen\dobbelstenen\obj\Debug\net7.0\dobbelstenen.AssemblyInfoInputs.cache
+C:\Users\TenzinBekaert\source\repos\dobbelstenen\dobbelstenen\obj\Debug\net7.0\dobbelstenen.AssemblyInfo.cs
+C:\Users\TenzinBekaert\source\repos\dobbelstenen\dobbelstenen\obj\Debug\net7.0\dobbelstenen.csproj.CoreCompileInputs.cache
+C:\Users\TenzinBekaert\source\repos\dobbelstenen\dobbelstenen\obj\Debug\net7.0\dobbelstenen.dll
+C:\Users\TenzinBekaert\source\repos\dobbelstenen\dobbelstenen\obj\Debug\net7.0\refint\dobbelstenen.dll
+C:\Users\TenzinBekaert\source\repos\dobbelstenen\dobbelstenen\obj\Debug\net7.0\dobbelstenen.pdb
+C:\Users\TenzinBekaert\source\repos\dobbelstenen\dobbelstenen\obj\Debug\net7.0\dobbelstenen.genruntimeconfig.cache
+C:\Users\TenzinBekaert\source\repos\dobbelstenen\dobbelstenen\obj\Debug\net7.0\ref\dobbelstenen.dll
